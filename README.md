@@ -56,6 +56,8 @@ Key deliverables include:
 
 <img width="659" height="861" alt="image" src="https://github.com/user-attachments/assets/11f4e7e4-af2f-45ef-be94-58b5d6701c3e" />
 
+<img width="1290" height="847" alt="Flight Lines " src="https://github.com/user-attachments/assets/339f427b-2873-4849-848c-db97aab9c165" />
+
 <img width="571" height="742" alt="Digitized Aggregate Stockpiles " src="https://github.com/user-attachments/assets/00f41f10-48d3-4159-802c-e32ec2440287" />
 
 
