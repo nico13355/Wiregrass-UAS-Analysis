@@ -54,11 +54,11 @@ Key deliverables include:
 
 ## 📸 Project Gallery
 
-<img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/11f4e7e4-af2f-45ef-be94-58b5d6701c3e" />
+<img width="800" height="900" alt="image" src="https://github.com/user-attachments/assets/11f4e7e4-af2f-45ef-be94-58b5d6701c3e" />
 
-<img width="700" height="800" alt="Flight Lines " src="https://github.com/user-attachments/assets/339f427b-2873-4849-848c-db97aab9c165" />
+<img width="800" height="500" alt="Flight Lines " src="https://github.com/user-attachments/assets/339f427b-2873-4849-848c-db97aab9c165" />
 
-<img width="700" height="800" alt="Digitized Aggregate Stockpiles " src="https://github.com/user-attachments/assets/00f41f10-48d3-4159-802c-e32ec2440287" />
+<img width="800" height="900" alt="Digitized Aggregate Stockpiles " src="https://github.com/user-attachments/assets/00f41f10-48d3-4159-802c-e32ec2440287" />
 
 
 ---
