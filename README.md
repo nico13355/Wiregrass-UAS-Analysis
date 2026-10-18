@@ -24,7 +24,7 @@ The objective was to identify disturbed areas, quantify vegetation loss, generat
 ## 🛰️ Software & Tools
 
 - ArcGIS Pro
-- Pix4Dmapper
+- Pix4D mapper
 - DJI Matrice 300 RTK
 - LiDAR
 - Microsoft Excel
